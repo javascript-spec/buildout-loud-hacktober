@@ -1,5 +1,3 @@
-## MERGE SORT ALGORITHM
-```
 #include <iostream>
 using namespace std;
 void merge(int arr[], int low, int mid, int high)
@@ -69,4 +67,3 @@ int main()
     cout << endl;
     return 0;
 }
-```
