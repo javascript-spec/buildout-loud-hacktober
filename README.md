@@ -1,6 +1,6 @@
 #  BUILDOUT LOUD this Hacktoberfest 2022 💫
 
-![banner](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
+![banner](https://res.cloudinary.com/practicaldev/image/fetch/s--ds97LCK---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ymlmr15l83rrjq8natft.jpg)
 
 ## 🌱 Contributing to hacktoberfest 2022
 
